@@ -11,5 +11,4 @@ num_mid = num_list[2]
 print(num_avg)
 print(num_mid)
 
-# 오우 쑤ㅐㅅ
 
